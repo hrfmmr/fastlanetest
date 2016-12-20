@@ -1,0 +1,4 @@
+scheme "fastlanetest"
+devices ["iPhone 6s"]
+clean true
+code_coverage true
